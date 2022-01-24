@@ -1,0 +1,23 @@
+body{
+	background-image : URL('Learning-Product-Management-Skills-vs.-Training-Proficientz.jpg');	
+	background-position: 10px 10px;
+	background-repeat: no-repeat; 
+	background-attachment: scroll;
+	background-size: 1240px 720px;
+	}
+ul {
+	list-style-type: upper-roman;
+	list-style-position: inside;
+	list-style-image: URL("kisspng-computer-icons-internet-forum-discussion-group-forum-download-icon-5ab14158cfd392.2773260315215660408513.jpg");
+	}
+p{
+	color : white;
+        font-size: 30px;
+      }
+h1.topicos {
+     	color: gold;
+     }
+#destaque{
+	color: white;
+	font-size: 20px;
+}

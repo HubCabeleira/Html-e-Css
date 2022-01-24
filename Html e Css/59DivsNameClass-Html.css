@@ -1,0 +1,23 @@
+body{
+	background-image : URL('Learning-Product-Management-Skills-vs.-Training-Proficientz.jpg');	
+	background-position: 10px 10px;
+	background-repeat: repeat; 
+	background-attachment: scroll;
+	background-size: 1240px 720px;
+	}
+ul {
+	list-style-type: upper-roman;
+	list-style-position: inside;
+	list-style-image: URL("IconList.jpeg");
+	}
+p{
+	color : white;
+        font-size: 30px;
+      }
+h1.topicos {
+     	color: gold;
+     }
+div.destaque{
+	color: white;
+	font-size: 20px;
+}
